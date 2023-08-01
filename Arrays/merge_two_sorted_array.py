@@ -1,6 +1,4 @@
 """
-88. Merge Sorted Array
-
 Problem link: https://leetcode.com/problems/merge-sorted-array/
 """
 
